@@ -11,11 +11,14 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 ## [Algorithms](https://www.hackerrank.com/domains/algorithms)
 
 #### Implementation
+##### The Bomberman Game
 ##### Ema's Supercomputer
 ##### Larry's Array
 
 
 ### Implementation
+
+#### [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) - [My Solution](./algorithms/the-bomberman-game.cs)
 
 #### [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) - [My Solution](./algorithms/emas-supercomputer.cs)
 
