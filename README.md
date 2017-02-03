@@ -11,6 +11,7 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 ## [Algorithms](https://www.hackerrank.com/domains/algorithms)
 
 #### Implementation
+##### Happy Ladybugs
 ##### Strange Counter
 ##### The Bomberman Game
 ##### Ema's Supercomputer
@@ -18,6 +19,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 
 ### Implementation
+
+#### [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) - [My Solution](./algorithms/happy-ladybugs)
 
 #### [Strange Counter](https://www.hackerrank.com/challenges/strange-code) - [My Solution](./algorithms/strange-counter.cs)
 
