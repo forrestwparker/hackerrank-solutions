@@ -21,9 +21,9 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
-#### [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) - [My Solution](./algorithms/fair-rations)
+#### [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) - [My Solution](./algorithms/fair-rations.cs)
 
-#### [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) - [My Solution](./algorithms/happy-ladybugs)
+#### [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) - [My Solution](./algorithms/happy-ladybugs.cs)
 
 #### [Strange Counter](https://www.hackerrank.com/challenges/strange-code) - [My Solution](./algorithms/strange-counter.cs)
 
