@@ -11,6 +11,7 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 ## [Algorithms](https://www.hackerrank.com/domains/algorithms)
 
 #### Implementation
+##### Fair Rations
 ##### Happy Ladybugs
 ##### Strange Counter
 ##### The Bomberman Game
@@ -19,6 +20,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 
 ### Implementation
+
+#### [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) - [My Solution](./algorithms/fair-rations)
 
 #### [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) - [My Solution](./algorithms/happy-ladybugs)
 
