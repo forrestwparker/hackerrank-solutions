@@ -14,6 +14,7 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 ##### Fair Rations
 ##### Happy Ladybugs
 ##### Strange Counter
+##### Absolute Permutation
 ##### The Bomberman Game
 ##### Ema's Supercomputer
 ##### Larry's Array
@@ -26,6 +27,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 #### [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) - [My Solution](./algorithms/happy-ladybugs.cs)
 
 #### [Strange Counter](https://www.hackerrank.com/challenges/strange-code) - [My Solution](./algorithms/strange-counter.cs)
+
+#### [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation) - [My Solution](./algorithms/absolute-permutation.cs)
 
 #### [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) - [My Solution](./algorithms/the-bomberman-game.cs)
 
