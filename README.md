@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) - [My Solution](./algorithms/lisas-workbook.cs)
+
 #### [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) - [My Solution](./algorithms/the-grid-search.cs)
 
 #### [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) - [My Solution](./algorithms/flatland-space-stations.cs)
