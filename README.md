@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Service Lane](https://www.hackerrank.com/challenges/service-lane) - [My Solution](./algorithms/service-lane.cs)
+
 #### [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) - [My Solution](./algorithms/lisas-workbook.cs)
 
 #### [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) - [My Solution](./algorithms/the-grid-search.cs)
