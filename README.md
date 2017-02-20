@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) - [My Solution](./algorithms/chocolate-feast.cs)
+
 #### [Service Lane](https://www.hackerrank.com/challenges/service-lane) - [My Solution](./algorithms/service-lane.cs)
 
 #### [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) - [My Solution](./algorithms/lisas-workbook.cs)
