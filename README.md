@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) - [My Solution](./algorithms/cavity-map.cs)
+
 #### [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) - [My Solution](./algorithms/chocolate-feast.cs)
 
 #### [Service Lane](https://www.hackerrank.com/challenges/service-lane) - [My Solution](./algorithms/service-lane.cs)
