@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) - [My Solution](the-time-in-words.cs)
+
 #### [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) - [My Solution](./algorithms/cavity-map.cs)
 
 #### [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) - [My Solution](./algorithms/chocolate-feast.cs)
