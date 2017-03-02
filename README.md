@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) - [My Solution](./algorithms/minimum-distances.cs)
+
 #### [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) - [My Solution](the-time-in-words.cs)
 
 #### [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) - [My Solution](./algorithms/cavity-map.cs)
