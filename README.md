@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Manasa Stones](https://www.hackerrank.com/challenges/manasa-and-stones) - [My Solution](./algorithms/manasa-stones.cs)
+
 #### [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) - [My Solution](./algorithms/minimum-distances.cs)
 
 #### [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) - [My Solution](the-time-in-words.cs)
