@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) - [My Solution](./algorithms/beautiful-triplets.cs)
+
 #### [Manasa Stones](https://www.hackerrank.com/challenges/manasa-and-stones) - [My Solution](./algorithms/manasa-stones.cs)
 
 #### [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) - [My Solution](./algorithms/minimum-distances.cs)
