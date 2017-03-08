@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers) - [My Solution](./algorithms/modified-kaprekar-numbers.cs)
+
 #### [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) - [My Solution](./algorithms/beautiful-triplets.cs)
 
 #### [Manasa Stones](https://www.hackerrank.com/challenges/manasa-and-stones) - [My Solution](./algorithms/manasa-stones.cs)
