@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) - [My Solution](./algorithms/bigger-is-greater.cs)
+
 #### [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers) - [My Solution](./algorithms/modified-kaprekar-numbers.cs)
 
 #### [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) - [My Solution](./algorithms/beautiful-triplets.cs)
