@@ -50,6 +50,7 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 ##### Equalize the Array (Easy)
 ##### ACM ICPC Team (Easy)
 ##### Taum and B'day (Easy)
+##### Organizing Containers of Balls (Medium)
 ##### Encryption (Medium)
 ##### Bigger is Greater (Medium)
 ##### Modified Kaprekar Numbers (Easy)
@@ -106,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 
 ### Implementation
+
+#### [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) - [My Solution](./algorithms/organizing-containers-of-balls.cs)
 
 #### [Encryption](https://www.hackerrank.com/challenges/encryption) - [My Solution](./algorithms/encryption.cs)
 
