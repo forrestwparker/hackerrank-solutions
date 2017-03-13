@@ -13,7 +13,7 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 ## [Algorithms](https://www.hackerrank.com/domains/algorithms)
 
 #### Warmup
-##### [Solve Me First](#solve-me-first-1) (Easy)
+##### [Solve Me First](#solve-me-first---my-solution) (Easy)
 ##### Simple Array Sum (Easy)
 ##### Compare Triplets (Easy)
 ##### A Very Big Sum (Easy)
