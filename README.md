@@ -13,7 +13,7 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 ## [Algorithms](https://www.hackerrank.com/domains/algorithms)
 
 #### Warmup
-##### Solve Me First (Easy)
+##### [Solve Me First](#solve-me-first-1) (Easy)
 ##### Simple Array Sum (Easy)
 ##### Compare Triplets (Easy)
 ##### A Very Big Sum (Easy)
@@ -107,6 +107,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 
 ### Implementation
+
+#### [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) - [My Solution](./algorithms/taum-and-bday.cs)
 
 #### [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) - [My Solution](./algorithms/organizing-containers-of-balls.cs)
 
