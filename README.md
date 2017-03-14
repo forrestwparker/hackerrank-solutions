@@ -108,6 +108,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) - [My Solution](./acm-icpc-team.cs)
+
 #### [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) - [My Solution](./algorithms/taum-and-bday.cs)
 
 #### [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) - [My Solution](./algorithms/organizing-containers-of-balls.cs)
