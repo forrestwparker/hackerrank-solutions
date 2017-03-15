@@ -108,6 +108,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) - [My Solution](./queens-attack-2.cs)
+
 #### [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) - [My Solution](./acm-icpc-team.cs)
 
 #### [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) - [My Solution](./algorithms/taum-and-bday.cs)
