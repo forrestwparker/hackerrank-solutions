@@ -48,6 +48,7 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 ##### Repeated String (Easy)
 ##### Jumping on the Clouds (Easy)
 ##### Equalize the Array (Easy)
+##### Queen's Attack II (Medium)
 ##### ACM ICPC Team (Easy)
 ##### Taum and B'day (Easy)
 ##### Organizing Containers of Balls (Medium)
@@ -108,9 +109,11 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
-#### [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) - [My Solution](./queens-attack-2.cs)
+#### [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array) - [My Solution](./algorithms/equalize-the-array.cs)
 
-#### [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) - [My Solution](./acm-icpc-team.cs)
+#### [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) - [My Solution](./algorithms/queens-attack-2.cs)
+
+#### [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) - [My Solution](./algorithms/acm-icpc-team.cs)
 
 #### [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) - [My Solution](./algorithms/taum-and-bday.cs)
 
