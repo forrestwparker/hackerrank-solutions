@@ -109,6 +109,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) - [My Solution](./algorithms/jumping-on-the-clouds.cs)
+
 #### [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array) - [My Solution](./algorithms/equalize-the-array.cs)
 
 #### [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) - [My Solution](./algorithms/queens-attack-2.cs)
