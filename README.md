@@ -109,6 +109,8 @@ These are my solutions to the challenges on [HackerRank](https://www.hackerrank.
 
 ### Implementation
 
+#### [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) - [My Solution](./algorithms/non-divisible-subset.cs)
+
 #### [Repeated String](https://www.hackerrank.com/challenges/repeated-string) - [My Solution](./algorithms/repeated-string.cs)
 
 #### [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) - [My Solution](./algorithms/jumping-on-the-clouds.cs)
